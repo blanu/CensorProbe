@@ -44,13 +44,4 @@ options(
   )
 )
 
-from tasks.bootstrapping import *
-from tasks.preparing import *
-from tasks.generating import *
-from tasks.encoding import *
-from tasks.capturing import *
-from tasks.processing import *
-from tasks.detecting import *
-from tasks.scoring import *
-from tasks.cleaning import *
 from tasks.testing import *

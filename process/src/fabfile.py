@@ -14,5 +14,5 @@ def list():
   run('ls *.zip')
 
 def update():
-  with cd('blocking-test'):
+  with cd('CensorProbe'):
     run('git pull origin master')

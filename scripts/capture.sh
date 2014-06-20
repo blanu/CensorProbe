@@ -1,4 +1,4 @@
-cd ~/blocking-test/capture
+cd ~/CensorProbe/capture
 echo "Launching tests"
 #../scripts/progressbar.sh
 echo "Please enter your root password when prompted."

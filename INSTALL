@@ -1,16 +1,16 @@
 To install, open a terminal and enter:
 
 sudo apt-get install git-core
-git clone https://github.com/blanu/blocking-test
-cd blocking-test
+git clone https://github.com/blanu/CensorProbe
+cd CensorProbe
 scripts/install.sh
 
 To run the tests, open a terminal and enter:
 
-cd blocking-test
+cd CensorProbe
 scripts/capture.sh
 
 To update to the newest version, open a terminal and enter:
 
-cd blocking-test
+cd CensorProbe
 scripts/update.sh
